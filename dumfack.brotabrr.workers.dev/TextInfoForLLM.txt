@@ -1,7 +1,7 @@
 # Site Purpose & Content Summary
 
 ## Core Purpose
-Landing page for a Discord AI companion bot called "dumfack" built for the Workers AI Hackathon. The bot is designed to provide natural, human-like chat interactions across multiple customizable personalities without feeling like a standard corporate chatbot.
+Landing page for a Discord AI companion bot called "dumfack". The bot is designed to provide natural, human-like chat interactions across multiple customizable personalities without feeling like a standard corporate chatbot.
 
 ## Main Copy & Value Proposition
 - Category Tag: // discord ai companions
