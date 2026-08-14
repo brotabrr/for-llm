@@ -1,0 +1,53 @@
+# Portfolio Purpose & Content Summary
+
+## Core Purpose
+A portfolio landing page showcasing active bots, web applications, server tools, and scripts developed by the creator.
+
+## Main Header & Metrics
+- Tag: // currently running
+- Heading: "my super cool projects"
+- Subtitle: "bots, servers, and small apps that run whether or not anyone's watching."
+- High-Level Metrics:
+  - 5 Projects
+  - 3 Discord Bots
+  - 37+ Servers Reached
+
+## Flagship Projects
+
+### 1. Dumfack
+- Tag: FLAGSHIP
+- Description: "A fun AI chat bot for Discord. Works on DMs and servers. Free Forever!"
+- Badges: `discord bot`, `25+ servers`, `Free`
+- Actions: Visit website, Invite to server, Check profile.
+- Why It Exists: Keeps inactive or slow Discord servers active through engaging automated conversations.
+- Key Features: Quick personality switching, always online, automatic memory support, Blackjack game, completely free.
+
+### 2. Hivemind
+- Tag: FLAGSHIP
+- Description: "Real time Anti-Spam cross server moderation bot"
+- Badges: `discord bot`, `cross-server`, `beta`
+- Actions: Visit Hivemind website.
+- Problem Solved: Executes cross-server anti-spam and moderation actions in seconds to prevent compromised accounts/spammers from hopping between multiple servers.
+- Key Features: Cross-server honeypot, single-click verification, instant security checks, permission audits, auto-setup permissions, automatic bot removal.
+
+## Additional Projects ("ALSO RUNNING")
+
+- Earther: Roblox scripts for "Plane Crazy" featuring part bending, giant mechs, and 3D model building tools. (Tags: `roblox`, `script`, `github`)
+- Mikunation: A web project dedicated to Hatsune Miku. (Tags: `website`, `miku`)
+- Nations: A lightweight site/embed utility that displays user country flags. (Tags: `website`, `misc`)
+- ScriptReaper / My Discord Server: Official community server hub. (Tag: `community`)
+- GitHub: Main code repository. (Tags: `socials`, `github`)
+- YouTube: Channel featuring video uploads and project showcases. (Tag: `socials`)
+
+
+## Footer & Metadata
+- Tech Stack Note: "built with python, coffee, and too many discord.py updates."
+- Status: "© 2026 • status • all systems running"
+
+---
+Site Wide Navigation Index: placeholder
+Full Navigation Index (all related sites): placeholder
+Main site: https://landing.brotabrr.workers.dev/
+Info About Dev: placeholder
+  
+You can find links and more info about these projects from About Dev and Full navigation index
