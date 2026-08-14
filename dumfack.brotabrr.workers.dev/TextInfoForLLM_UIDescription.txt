@@ -1,0 +1,48 @@
+# UI & Visual Design Description
+
+## Visual Theme & Style
+- Theme: Dark mode interface (deep dark violet/charcoal background `#0B0B12`).
+- Accent Colors: Vibrant neon purple-to-teal gradient text and subtle frosted dark card containers with soft violet borders.
+- Typography: Sans-serif main text paired with monospace code-style section tags (e.g., `// discord ai companions`).
+
+## Page Layout Hierarchy
+
+1. Hero Section (Top)
+   - Left floating chat bubbles: "im bored lol" / "hows your day going?" (multiple variants)
+   - Center block: Monospace tag (`// discord ai companions`), main gradient heading, subtitle paragraph.
+   - Action buttons:
+     - Primary Button: `Try the Live demo ->` (White pill button)
+     - Secondary Button: `Invite to discord` (Translucent dark pill button)
+   - Right floating chat bubble: "h-huh?? why do you care..."
+   - Metrics Bar: 3-column stats counters (`25+ personalities`, `5,000+ messages sent`, `26 servers`).
+
+2. Interactive Demo Section ("pick your flavor")
+   - Monospace section label (`// same question, endless vibes`).
+   - Prompt bar showing simulated user input: `you say "hey, how's your day going?"`.
+   - 3-Column Card Grid:
+     - Card 1: `MIAIN` badge + message text.
+     - Card 2: `TSUNDERE` badge + message text.
+     - Card 3: `SHY` badge + message text.
+   - Text link: `try all three — and more — yourself ->`.
+
+3. Feature Grid Section
+   - 2x3 Grid of dark rounded cards with icon headers (`+`, `*`, `x`, `°`):
+     - Message splitting
+     - Swappable personalities
+     - Actually remembers
+     - Automatic memory
+     - Moderator priority
+     - Redo what you don't like
+
+4. Bottom CTA & Footer
+   - Hero text: `see it for yourself`
+   - Subtitle: `no signup, no envro required — just talk to it right here.`
+   - Primary CTA Button: `open the demo ->` (White pill button)
+   - Footer text: `© 2026 • demo running live •`
+   - Footer text2: `← more of my projects`
+
+---
+Navigation Index: placeholder
+Live Demo: https://dumfack.brotabrr.workers.dev/demo
+Main Site: https://dumfack.brotabrr.workers.dev/
+Info About Dev: placeholder
