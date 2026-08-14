@@ -1,0 +1,37 @@
+# UI & Visual Design Description
+
+## Theme & Aesthetic
+- Color Palette: Deep dark violet background (`#0B0B11`) with orange/coral accent highlights (`projects`), glowing cyan monospace tags (`// currently running`), and dark rounded cards with faint borders.
+- Background Visuals: Subtle background constellation grid (connecting star particles).
+
+## Layout Structure
+
+1. Hero Header Block
+   - Monospace section tag: `// currently running`
+   - Gradient Title: "my super cool" (White) + "projects" (Coral Accent)
+   - Description paragraph.
+   - Stats Counter Row: Horizontal 3-column stats with top `SCROLL` label indicator (`5 projects`, `3 discord bots`, `37 servers reached`).
+
+2. Flagship Project Section (Vertical Stack)
+   - Large rounded dark card container with glowing borders.
+   - Top Header Bar: `FLAGSHIP` pill tag + Project Name (`Dumfack` / `Hivemind`).
+   - Tag Row: Pill badges for tech stack/status (`discord bot`, `cross-server`, `beta`, `Free`).
+   - Inline Link List: Hyperlink text with directional arrows (`visit Dumfack's own website ->`).
+   - Content Grid:
+     - 2-column detail cards splitting "WHY IT EXISTS" / "THE HARD PART" on the left and "KEY FEATURES" on the right.
+     - Central media/graphic container (e.g., custom illustration or honeycomb pattern icon).
+
+3. Secondary Projects Grid ("ALSO RUNNING")
+   - Monospace Section Header: `ALSO RUNNING`
+   - 2-Column Responsive Card Grid:
+     - Each card features a dark background, title, short description, category badges, and optional image header banner (e.g., ScriptReaper banner).
+
+4. Footer Section
+   - Center-aligned text block in cyan monospace font.
+   - Includes tech stack summary and live status indicator (`© 2026 • status • all systems running`).
+
+---
+Site Wide Navigation Index: placeholder
+Full Navigation Index (all related sites): placeholder
+Main site: https://landing.brotabrr.workers.dev/
+Info About Dev: placeholder
