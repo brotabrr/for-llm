@@ -43,7 +43,7 @@
 
 ---
 Site Wide Navigation Index: https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/dumfack.brotabrr.workers.dev/index.txt
-Full Navigation Index (all related sites): placeholder
+Full Navigation Index (all related sites): https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/GlobalIndexForLLM
 Live Demo: https://dumfack.brotabrr.workers.dev/demo
 Main Site: https://dumfack.brotabrr.workers.dev/
-Info About Dev: placeholder
+Info About Dev: https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/DevInfo.txt
