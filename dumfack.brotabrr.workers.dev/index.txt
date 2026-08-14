@@ -2,3 +2,4 @@ This file is index for LLM accessible files for: https://dumfack.brotabrr.worker
 For UI description of the root site go to: https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/dumfack.brotabrr.workers.dev/TextInfoForLLM_UIDescription.txt
 For text description of the root site go to: https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/dumfack.brotabrr.workers.dev/TextInfoForLLM.txt
 For Dev info go to: placeholder
+For Global related site index go to: placeholder
