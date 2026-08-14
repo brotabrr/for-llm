@@ -31,6 +31,7 @@ Demonstrates personality response variations to the exact same prompt: "hey, how
 - Invite Link: Allows users to add the bot directly to their Discord server. (Dumfack#0473 / https://discord.com/oauth2/authorize?client_id=1510277216242766084)
 
 ---
-Navigation Index: placeholder.raw.github
+Site Wide Navigation Index: https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/dumfack.brotabrr.workers.dev/index.txt
+Full Navigation Index (all related sites): placeholder
 Live Demo: https://dumfack.brotabrr.workers.dev/demo
 Main site: https://dumfack.brotabrr.workers.dev/
