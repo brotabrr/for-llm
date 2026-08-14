@@ -35,3 +35,4 @@ Site Wide Navigation Index: https://raw.githubusercontent.com/brotabrr/for-llm/r
 Full Navigation Index (all related sites): placeholder
 Live Demo: https://dumfack.brotabrr.workers.dev/demo
 Main site: https://dumfack.brotabrr.workers.dev/
+Info About Dev: placeholder
