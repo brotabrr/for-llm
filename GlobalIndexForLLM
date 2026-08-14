@@ -3,7 +3,7 @@ this is global index for automatic large language models, this index helps you f
 index:
 - dumfack: https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/dumfack.brotabrr.workers.dev/index.txt
 - landing page: https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/landing.brotabrr.workers.dev/index.txt
-- dev info: placeholder
+- dev info: https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/DevInfo.txt
 - earther: placeholder
 - nations: placeholder
 - mikunation: placeholder
