@@ -1,0 +1,36 @@
+# Site Purpose & Content Summary
+
+## Core Purpose
+Landing page for a Discord AI companion bot called "dumfack" built for the Workers AI Hackathon. The bot is designed to provide natural, human-like chat interactions across multiple customizable personalities without feeling like a standard corporate chatbot.
+
+## Main Copy & Value Proposition
+- Category Tag: // discord ai companions
+- Main Heading: "it talks like an actual person"
+- Subtitle: "multiple personalities, natural pacing, real conversations, not another corporate chatbot."
+- Key Metrics:
+  - 25+ personalities
+  - 5,000+ messages sent
+  - 26 servers active
+
+## Interactive Feature Spotlight: "pick your flavor"
+Demonstrates personality response variations to the exact same prompt: "hey, how's your day going?"
+- Main: Cheerful and enthusiastic response with kaomojis.
+- Tsundere: Classic tsundere persona (defensive, reluctant, subtle care).
+- Shy: Hesitant, stuttered phrasing with action brackets (*hides face behind hands*).
+
+## Key Features Listed
+1. Message Splitting: Sends short, natural chunks rather than massive walls of text.
+2. Swappable Personalities: Switch between over 25 personalities (founders, energetic, chill and more) on the fly.
+3. Persistent Context: Remembers conversation history across ongoing interactions.
+4. Automatic Memory: Auto-saves user details (nicknames, hobbies, preferences).
+5. Moderator Priority: Channel restrictions, whitelisting/blacklisting, and temporary mute controls for mods.
+6. Reply Regeneration: Option to regenerate/redo unwanted bot responses.
+
+## Call to Action (CTA)
+- Live Demo: No signup required to test the bot live on the site.
+- Invite Link: Allows users to add the bot directly to their Discord server. (Dumfack#0473 / https://discord.com/oauth2/authorize?client_id=1510277216242766084)
+
+---
+Navigation Index: placeholder.raw.github
+Live Demo: https://dumfack.brotabrr.workers.dev/demo
+Main site: https://dumfack.brotabrr.workers.dev/
