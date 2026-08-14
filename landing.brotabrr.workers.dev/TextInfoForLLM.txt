@@ -46,8 +46,8 @@ A portfolio landing page showcasing active bots, web applications, server tools,
 
 ---
 Site Wide Navigation Index: placeholder
-Full Navigation Index (all related sites): placeholder
+Full Navigation Index (all related sites): https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/GlobalIndexForLLM
 Main site: https://landing.brotabrr.workers.dev/
-Info About Dev: placeholder
+Info About Dev: https://raw.githubusercontent.com/brotabrr/for-llm/refs/heads/main/DevInfo.txt
   
 You can find links and more info about these projects from About Dev and Full navigation index
